@@ -1,1 +1,1 @@
-Pensez à executer le init.db.
+Pensez à executer le init.sql.
